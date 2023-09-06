@@ -1,0 +1,32 @@
+/* p{
+    color: aquamarine;
+} */
+/* descendant selector */
+/* div p{
+    color: blue;
+}
+div.spc{
+    color: blueviolet;
+} */
+/* ul.list>li{
+    color: brown;
+}
+li#fav_movie{
+    color: chocolate;
+} */
+/* li+li{
+    color: palevioletred;
+} */
+/* li~li{
+    color: greenyellow;
+} */
+/* l=link
+v=visited
+h=hover
+a=active */
+navbar{
+    background-color: blue;
+}
+navbar:hover{
+    color: aliceblue;
+}
